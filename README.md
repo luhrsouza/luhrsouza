@@ -29,5 +29,5 @@
 
 ## About me
 
-I'm currently studing on UTFPR. <br/>
+I'm currently studying on UTFPR. <br/>
 I'm a Student of Analysis and Systems Development.
